@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\bin\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.exe
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\bin\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.deps.json
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\bin\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.runtimeconfig.json
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\bin\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\bin\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.pdb
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.AssemblyInfo.cs
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\refint\LógicaDeProgramaçãoUsandoC#.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.pdb
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\LógicaDeProgramaçãoUsandoC#.genruntimeconfig.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\LógicaDeProgramaçãoUsandoC#\obj\Debug\net6.0\ref\LógicaDeProgramaçãoUsandoC#.dll

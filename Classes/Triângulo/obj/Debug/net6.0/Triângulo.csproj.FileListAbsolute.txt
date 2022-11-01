@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\bin\Debug\net6.0\Triângulo.exe
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\bin\Debug\net6.0\Triângulo.deps.json
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\bin\Debug\net6.0\Triângulo.runtimeconfig.json
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\bin\Debug\net6.0\Triângulo.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\bin\Debug\net6.0\Triângulo.pdb
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.AssemblyInfo.cs
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\refint\Triângulo.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.pdb
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\Triângulo.genruntimeconfig.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Triângulo\obj\Debug\net6.0\ref\Triângulo.dll
