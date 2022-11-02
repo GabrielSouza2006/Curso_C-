@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.AssemblyInfo.cs
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\bin\Debug\net6.0\Exercício4.exe
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\bin\Debug\net6.0\Exercício4.deps.json
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\bin\Debug\net6.0\Exercício4.runtimeconfig.json
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\bin\Debug\net6.0\Exercício4.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\bin\Debug\net6.0\Exercício4.pdb
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\refint\Exercício4.dll
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.pdb
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\Exercício4.genruntimeconfig.cache
+C:\Users\gabri\Documents\Programação\Cursos\Curso C#\Tarefas\Classes\Exercício4\obj\Debug\net6.0\ref\Exercício4.dll
